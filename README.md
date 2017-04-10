@@ -28,7 +28,7 @@ This app demonstrates how to use the [Cloud Vision API](https://cloud.google.com
 
 - Clone this `cloud-vision` repository on GitHub. If you have [`git`][git] installed, you can do this by executing the following command:
 
-        $ git clone https://github.com/GoogleCloudPlatform/cloud-vision.git
+        $ git clone https://github.com/GoogleCloudPlatform/GoogleCloudVision_ios.git
 
     This will download the repository of samples into the directory
     `cloud-vision`.
