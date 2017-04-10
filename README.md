@@ -45,7 +45,7 @@ This app demonstrates how to use the [Cloud Vision API](https://cloud.google.com
 
 - You are now ready to build and run the project. In Xcode you can do this by clicking the 'Play' button in the top left. This will launch the app on the simulator or on the device you've selected.
 
-- Click the `Choose an image to analyze` button. This calls the `loadImageButtonTapped` action to load the device's photo library.
+- Click the `Choose an image to analyze` button. This calls the `loadImageButtonTapped` action to take photo using the camera or load the device's photo library.
 
 - Select an image from your device. If you're using the simulator, you can drag and drop an image from your computer into the simulator using Finder.
 	- This executes the `imagePickerController`, which saves the selected image and calls the `base64EncodeImage` function. This function base64 encodes the image and resizes it if it's too large to send to the API.
